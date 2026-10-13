@@ -7,7 +7,7 @@
 </div>
 
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXoyeGJ5cWMzazNwODc1N29wNHByYThyd2x2NHhvaHo1bGFpMDBkZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yYSSBtDgbbRzq/giphy.gif" width="500"/>
+  [Darkwings SDK](https://github.com/QUEVASoftware/darkwings-sdk)
 </div>
 
 <div id="header" align="center">
